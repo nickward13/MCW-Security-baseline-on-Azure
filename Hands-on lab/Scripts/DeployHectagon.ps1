@@ -1,0 +1,1 @@
+./DeployTemplate -subscriptionId 114d25c4-3f8f-4c41-83b1-22007178fc8c -resourceGroupName azsecurity-hectagon -resourceGroupLocation 'West US 2' -templateFilePath './template.json' -parametersFilePath './parameters-hectagon.json' -deploymentName 'Auto'

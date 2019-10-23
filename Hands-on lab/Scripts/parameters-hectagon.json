@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+		"sqlservername": {
+            "value": "azuresecurity-hectagon"
+            },
+        "databaseName": {
+            "value": "Insurance"
+        },
+        "userObjectId": {
+            "value": "75fbf278-a8ae-48b3-a5e5-c8ee58cad87f"
+        } 
+    }
+}
